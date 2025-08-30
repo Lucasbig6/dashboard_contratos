@@ -1,5 +1,9 @@
+# Ignora ambiente virtual
+.venv/
+
 # ignora o gerador de dados
-. dados.py
+.dados.py
 
 # Ignorar pasta de assets (imagens, GIFs, etc.)
 # assets/
+data/
