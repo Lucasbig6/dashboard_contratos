@@ -1,0 +1,5 @@
+# ignora o gerador de dados
+.dados.py
+
+# Ignorar pasta de assets (imagens, GIFs, etc.)
+assets/
